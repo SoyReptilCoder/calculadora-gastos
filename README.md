@@ -30,7 +30,7 @@ Aplicar fundamentos intermedios de Python:
 ```
 calculadora_gastos/
 ├── main.py            # Archivo principal del programa
-├── funciones.py       # Módulo con funciones reutilizables
+├── functions.py       # Módulo con funciones reutilizables
 └── README.md          # Documentación del proyecto
 ```
 
